@@ -1,0 +1,40 @@
+.nav-main{
+    width: 20%;
+    height: 100vh;
+    position: fixed;
+    color: white;
+
+}
+.nav-spacing{
+    margin-left:10%;
+}
+
+.nav-search {
+    width: 70%;
+}
+.nav-brand-title{
+    font-size: 30px;
+}
+
+.nav-down{
+    margin-top: 5vh;
+}
+
+.nav-link {
+    text-decoration:none;
+    color: white;
+    
+}
+.nav-link:hover{
+    
+    color:yellow;
+}
+
+.bi-cash-coin{
+    font-size: 40px;
+    color: orange;
+}
+
+.nav-auth{
+    
+}

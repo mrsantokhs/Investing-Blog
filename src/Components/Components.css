@@ -1,40 +1,67 @@
-.nav-main{
-    width: 20%;
-    height: 100vh;
-    position: fixed;
-    color: white;
-
+.nav-main {
+  width: 40vh;
+  height: 100vh;
+  position: fixed;
+  color: white;
 }
-.nav-spacing{
-    margin-left:10%;
+.nav-spacing {
+  margin-left: 10%;
 }
 
 .nav-search {
-    width: 70%;
+  width: 70%;
 }
-.nav-brand-title{
-    font-size: 30px;
+.nav-brand-title {
+  font-size: 30px;
 }
 
-.nav-down{
-    margin-top: 5vh;
+.nav-down {
+  margin-top: 5vh;
 }
 
 .nav-link {
-    text-decoration:none;
-    color: white;
-    
+  text-decoration: none;
+  color: white;
 }
-.nav-link:hover{
-    
-    color:yellow;
+.nav-link:hover {
+  color: yellow;
 }
 
-.bi-cash-coin{
-    font-size: 40px;
-    color: orange;
+.nav-logo {
+  font-size: 40px;
+  color: orange;
 }
 
-.nav-auth{
-    
+footer {
+  margin-top: 20px;
+}
+
+/* ------  Login ----*/
+
+.login-left {
+  height: 100vh;
+
+  width: 60%;
+  color: white;
+  text-align: center;
+}
+.login-left p {
+  color: orange;
+}
+.login-right {
+  height: 100vh;
+}
+
+.login-form {
+  margin-top: 5%;
+  width: 60%;
+}
+
+.login-form h1 {
+  margin-bottom: 20px;
+}
+
+.login-logo {
+  font-size: 70px;
+  color: orange;
 }
